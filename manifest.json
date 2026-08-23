@@ -1,15 +1,26 @@
 {
-  "name": "Teknopcmgta",
-  "short_name": "teknopcmgta",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#121212",
-  "theme_color": "#121212",
-  "icons": [
-    {
-      "src": "icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    }
-  ]
+    "name": "TEKNOPCMGTA - Ingeniería y Soporte IT",
+    "short_name": "TEKNOPCMGTA",
+    "description": "Soluciones integrales en infraestructura tecnológica, redes MikroTik, diagnóstico electrónico y automatización IoT.",
+    "start_url": "./",
+    "scope": "./",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#0A0F1D",
+    "theme_color": "#06B6D4",
+    "lang": "es",
+    "icons": [
+        {
+            "src": "icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ]
 }
