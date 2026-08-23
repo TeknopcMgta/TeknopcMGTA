@@ -1,6 +1,6 @@
 {
   "name": "Teknopcmgta",
-  "short_name": "teknopc",
+  "short_name": "teknopcmgta",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#121212",
